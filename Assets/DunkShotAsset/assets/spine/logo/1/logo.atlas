@@ -1,0 +1,54 @@
+
+logo.png
+size: 1021,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot111
+  rotate: false
+  xy: 196, 118
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 202
+  size: 1017, 678
+  orig: 1017, 678
+  offset: 0, 0
+  index: -1
+tail_effect
+  rotate: false
+  xy: 2, 104
+  size: 192, 96
+  orig: 192, 96
+  offset: 0, 0
+  index: -1
+tail_logo
+  rotate: false
+  xy: 2, 2
+  size: 135, 100
+  orig: 135, 100
+  offset: 0, 0
+  index: -1
+
+logo2.png
+size: 976,422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Asset 1
+  rotate: false
+  xy: 2, 2
+  size: 628, 418
+  orig: 628, 418
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 632, 63
+  size: 357, 342
+  orig: 357, 342
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+tutorial.png
+size: 57,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Asset 1
+  rotate: true
+  xy: 2, 8
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Asset 2
+  rotate: false
+  xy: 21, 33
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Asset 3
+  rotate: false
+  xy: 21, 12
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Asset 4
+  rotate: false
+  xy: 2, 2
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1

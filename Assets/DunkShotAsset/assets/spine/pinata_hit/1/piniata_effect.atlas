@@ -1,0 +1,13 @@
+
+piniata_effect.png
+size: 53,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+konfeti
+  rotate: false
+  xy: 2, 2
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1

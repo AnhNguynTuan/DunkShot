@@ -1,0 +1,20 @@
+
+goal.png
+size: 145,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 94, 2
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+goal
+  rotate: false
+  xy: 2, 8
+  size: 90, 35
+  orig: 90, 35
+  offset: 0, 0
+  index: -1

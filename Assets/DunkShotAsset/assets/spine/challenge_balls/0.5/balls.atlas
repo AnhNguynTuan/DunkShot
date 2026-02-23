@@ -1,0 +1,1631 @@
+
+balls.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COIN_TYPE_BALLS/cage_side
+  rotate: true
+  xy: 1006, 343
+  size: 196, 15
+  orig: 196, 15
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/clok_side
+  rotate: false
+  xy: 643, 463
+  size: 201, 36
+  orig: 201, 36
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cola_back
+  rotate: false
+  xy: 793, 242
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/drum_side
+  rotate: true
+  xy: 931, 34
+  size: 206, 91
+  orig: 206, 91
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/ghost/still
+  rotate: false
+  xy: 256, 317
+  size: 118, 195
+  orig: 118, 195
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/random_top
+  rotate: false
+  xy: 376, 238
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/vinil_side
+  rotate: false
+  xy: 643, 455
+  size: 201, 6
+  orig: 201, 6
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/live
+  rotate: true
+  xy: 846, 455
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/swirl
+  rotate: false
+  xy: 587, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/fierly in clouds/lightning
+  rotate: false
+  xy: 2, 126
+  size: 249, 267
+  orig: 249, 267
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/medievel bump/axe
+  rotate: false
+  xy: 857, 541
+  size: 164, 177
+  orig: 164, 177
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/E
+  rotate: false
+  xy: 137, 3
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/total clown/clown1
+  rotate: true
+  xy: 855, 720
+  size: 158, 167
+  orig: 158, 167
+  offset: 0, 0
+  index: -1
+balloon/air
+  rotate: true
+  xy: 931, 3
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+bike/bike1
+  rotate: false
+  xy: 373, 24
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+bike/bike2
+  rotate: false
+  xy: 643, 501
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+chick/Asset 47
+  rotate: true
+  xy: 685, 715
+  size: 163, 168
+  orig: 163, 168
+  offset: 0, 0
+  index: -1
+disco_ball/beam
+  rotate: false
+  xy: 2, 649
+  size: 376, 373
+  orig: 376, 373
+  offset: 0, 0
+  index: -1
+disco_ball/flash
+  rotate: false
+  xy: 2, 395
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+disco_ball/flash2
+  rotate: false
+  xy: 911, 456
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+firework/Asset 109
+  rotate: true
+  xy: 945, 881
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+gintis new balls/coin_side
+  rotate: true
+  xy: 857, 511
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+gintis new balls/dog_face2
+  rotate: false
+  xy: 243, 15
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+gintis new balls/helicopter_propeller
+  rotate: false
+  xy: 369, 2
+  size: 164, 20
+  orig: 164, 20
+  offset: 0, 0
+  index: -1
+gintis new balls/kepure
+  rotate: true
+  xy: 253, 120
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+gintis new balls/tail11
+  rotate: false
+  xy: 380, 452
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+gintis new balls/ufo_1
+  rotate: false
+  xy: 685, 880
+  size: 258, 142
+  orig: 258, 142
+  offset: 0, 0
+  index: -1
+jelly/Asset 49
+  rotate: false
+  xy: 890, 184
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+plane/cockpit
+  rotate: false
+  xy: 945, 938
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+skull/Asset 58
+  rotate: false
+  xy: 380, 715
+  size: 303, 307
+  orig: 303, 307
+  offset: 0, 0
+  index: -1
+skull/skull_1
+  rotate: true
+  xy: 256, 514
+  size: 133, 119
+  orig: 133, 119
+  offset: 0, 0
+  index: -1
+skull/skull_2
+  rotate: false
+  xy: 2, 6
+  size: 133, 118
+  orig: 133, 118
+  offset: 0, 0
+  index: -1
+sparrow/sparrow_wing
+  rotate: false
+  xy: 793, 175
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+steare/base
+  rotate: false
+  xy: 590, 174
+  size: 201, 276
+  orig: 201, 276
+  offset: 0, 0
+  index: -1
+steare/steear
+  rotate: false
+  xy: 759, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+
+balls2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Asset 40
+  rotate: true
+  xy: 841, 563
+  size: 199, 155
+  orig: 199, 155
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/button/button_back
+  rotate: true
+  xy: 2, 328
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/button/button_side
+  rotate: true
+  xy: 985, 815
+  size: 207, 21
+  orig: 207, 21
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/button/button_top
+  rotate: true
+  xy: 2, 119
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/can_back
+  rotate: false
+  xy: 423, 815
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/can_side
+  rotate: false
+  xy: 210, 107
+  size: 207, 71
+  orig: 207, 71
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/can_top
+  rotate: false
+  xy: 423, 606
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cola_front
+  rotate: false
+  xy: 210, 811
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cola_front_flip
+  rotate: false
+  xy: 210, 598
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/drum_bot
+  rotate: false
+  xy: 632, 815
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/drum_bot_broken
+  rotate: false
+  xy: 632, 606
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/drum_top
+  rotate: false
+  xy: 210, 389
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/flaterth_side
+  rotate: true
+  xy: 1000, 612
+  size: 201, 22
+  orig: 201, 22
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/pizza_slice3
+  rotate: true
+  xy: 281, 3
+  size: 102, 151
+  orig: 102, 151
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/tesla_body
+  rotate: false
+  xy: 210, 180
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/valve/slice60
+  rotate: false
+  xy: 636, 398
+  size: 203, 206
+  orig: 203, 206
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/wafle_side
+  rotate: true
+  xy: 1000, 406
+  size: 204, 21
+  orig: 204, 21
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/back_apple
+  rotate: true
+  xy: 841, 368
+  size: 193, 157
+  orig: 193, 157
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/coin play/gold
+  rotate: false
+  xy: 423, 404
+  size: 211, 200
+  orig: 211, 200
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/fierly in clouds/cloud
+  rotate: false
+  xy: 434, 2
+  size: 192, 191
+  orig: 192, 191
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/U
+  rotate: true
+  xy: 144, 2
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+cookie/half
+  rotate: true
+  xy: 2, 537
+  size: 237, 206
+  orig: 237, 206
+  offset: 0, 0
+  index: -1
+gintis new balls/bulb_BG_off
+  rotate: false
+  xy: 419, 195
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/chamelion
+  rotate: false
+  xy: 628, 189
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/clam_opened
+  rotate: false
+  xy: 837, 186
+  size: 166, 180
+  orig: 166, 180
+  offset: 0, 0
+  index: -1
+gintis new balls/dog_hidden_cap
+  rotate: false
+  xy: 628, 2
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+gintis new balls/helicopter_proppeler_spin
+  rotate: false
+  xy: 818, 2
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+gintis new balls/lama
+  rotate: false
+  xy: 2, 776
+  size: 206, 246
+  orig: 206, 246
+  offset: 0, 0
+  index: -1
+gintis new balls/ufo_2
+  rotate: true
+  xy: 841, 764
+  size: 258, 142
+  orig: 258, 142
+  offset: 0, 0
+  index: -1
+jelly/Asset 50
+  rotate: false
+  xy: 2, 2
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+
+balls3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COIN_TYPE_BALLS/caunter/target
+  rotate: false
+  xy: 420, 399
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/chips_side
+  rotate: false
+  xy: 206, 21
+  size: 201, 25
+  orig: 201, 25
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/chips_side_2
+  rotate: false
+  xy: 811, 8
+  size: 201, 25
+  orig: 201, 25
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/pizza_slice2
+  rotate: false
+  xy: 842, 779
+  size: 174, 101
+  orig: 174, 101
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/wafle_back
+  rotate: false
+  xy: 211, 607
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/wafle_top
+  rotate: false
+  xy: 420, 816
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/front_apple
+  rotate: false
+  xy: 828, 99
+  size: 193, 157
+  orig: 193, 157
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/knife_front
+  rotate: true
+  xy: 608, 34
+  size: 63, 201
+  orig: 63, 201
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/knife_side
+  rotate: true
+  xy: 811, 35
+  size: 62, 201
+  orig: 62, 201
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/trunk_side
+  rotate: false
+  xy: 629, 712
+  size: 210, 106
+  orig: 210, 106
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/dog/2018
+  rotate: true
+  xy: 2, 2
+  size: 184, 100
+  orig: 184, 100
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/fierly in clouds/shoting_cloud
+  rotate: false
+  xy: 414, 2
+  size: 192, 191
+  orig: 192, 191
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/medievel bump/axe_side
+  rotate: true
+  xy: 608, 2
+  size: 30, 177
+  orig: 30, 177
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/poor pencil/PENCIL1
+  rotate: true
+  xy: 840, 524
+  size: 107, 182
+  orig: 107, 182
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/poor pencil/PENCIL2
+  rotate: true
+  xy: 840, 415
+  size: 107, 182
+  orig: 107, 182
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/FADER
+  rotate: false
+  xy: 628, 303
+  size: 205, 204
+  orig: 205, 204
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/total clown/clown2
+  rotate: true
+  xy: 841, 633
+  size: 144, 174
+  orig: 144, 174
+  offset: 0, 0
+  index: -1
+fortune/fortune
+  rotate: false
+  xy: 624, 99
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+gintis new balls/bulb_on
+  rotate: false
+  xy: 2, 188
+  size: 206, 207
+  orig: 206, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/chamelion_2
+  rotate: false
+  xy: 2, 815
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/clam_closed
+  rotate: false
+  xy: 842, 882
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+gintis new balls/coin1
+  rotate: false
+  xy: 2, 606
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/coin2
+  rotate: false
+  xy: 211, 815
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/eagle bg
+  rotate: false
+  xy: 2, 397
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+gintis new balls/helicopter
+  rotate: false
+  xy: 211, 251
+  size: 205, 146
+  orig: 205, 146
+  offset: 0, 0
+  index: -1
+gintis new balls/moon
+  rotate: false
+  xy: 211, 399
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+gintis new balls/sun
+  rotate: false
+  xy: 420, 607
+  size: 206, 207
+  orig: 206, 207
+  offset: 0, 0
+  index: -1
+papuga/idle_papuga
+  rotate: false
+  xy: 628, 509
+  size: 210, 201
+  orig: 210, 201
+  offset: 0, 0
+  index: -1
+papuga/papuga_big_beams
+  rotate: false
+  xy: 629, 820
+  size: 211, 202
+  orig: 211, 202
+  offset: 0, 0
+  index: -1
+plane/BG
+  rotate: true
+  xy: 418, 195
+  size: 202, 204
+  orig: 202, 204
+  offset: 0, 0
+  index: -1
+plane/playin
+  rotate: true
+  xy: 104, 2
+  size: 184, 100
+  orig: 184, 100
+  offset: 0, 0
+  index: -1
+puff/puff_2
+  rotate: false
+  xy: 835, 258
+  size: 183, 155
+  orig: 183, 155
+  offset: 0, 0
+  index: -1
+white_ball
+  rotate: false
+  xy: 210, 48
+  size: 202, 201
+  orig: 202, 201
+  offset: 0, 0
+  index: -1
+
+balls4.png
+size: 1017,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COIN_TYPE_BALLS/Asset 49
+  rotate: false
+  xy: 2, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cage_back
+  rotate: false
+  xy: 2, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cage_front
+  rotate: false
+  xy: 205, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/chips_back
+  rotate: false
+  xy: 2, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/chips_front
+  rotate: false
+  xy: 205, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/clock_backAsset 49
+  rotate: false
+  xy: 408, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cower_back
+  rotate: false
+  xy: 2, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cower_front
+  rotate: false
+  xy: 205, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/flatearth_back
+  rotate: false
+  xy: 408, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/flatearth_front
+  rotate: false
+  xy: 611, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/limb_back
+  rotate: false
+  xy: 2, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/limb_front
+  rotate: false
+  xy: 205, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/smile_back
+  rotate: false
+  xy: 408, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/smile_front
+  rotate: false
+  xy: 611, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/vinil
+  rotate: false
+  xy: 814, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+NEW_3_BALLS/trunk_top
+  rotate: false
+  xy: 205, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+balloon/balloon2
+  rotate: false
+  xy: 408, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+bomb/beams
+  rotate: false
+  xy: 611, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+bomb/face
+  rotate: false
+  xy: 814, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+bomb/face_1
+  rotate: false
+  xy: 408, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+bomb/smoke
+  rotate: false
+  xy: 611, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+disco_ball/ball1
+  rotate: false
+  xy: 611, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+disco_ball/ball2
+  rotate: false
+  xy: 814, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+disco_ball/ball3
+  rotate: false
+  xy: 814, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+firefly/firefly_A
+  rotate: false
+  xy: 814, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+
+balls5.png
+size: 1017,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firefly/firefly_B
+  rotate: false
+  xy: 2, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+firefly/wing1
+  rotate: false
+  xy: 2, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+firefly/wing2
+  rotate: false
+  xy: 205, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+firework/firework3
+  rotate: false
+  xy: 2, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+firework/rocket
+  rotate: false
+  xy: 205, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/apple
+  rotate: false
+  xy: 408, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/dear_A
+  rotate: false
+  xy: 2, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/dear_B
+  rotate: false
+  xy: 205, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/pinaple_A
+  rotate: false
+  xy: 408, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/pinaple_B
+  rotate: false
+  xy: 611, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/robo_A
+  rotate: false
+  xy: 2, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/robo_B
+  rotate: false
+  xy: 205, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/rocket_A
+  rotate: false
+  xy: 408, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/rocket_B
+  rotate: false
+  xy: 611, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/spinner_A
+  rotate: false
+  xy: 814, 814
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/tomator_A
+  rotate: false
+  xy: 205, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/tomator_B
+  rotate: false
+  xy: 408, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/watermellon_A
+  rotate: false
+  xy: 611, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+greta_balls/watermellon_B
+  rotate: false
+  xy: 814, 611
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+papuga/flying_papuga
+  rotate: false
+  xy: 408, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+propeller/propeller_A
+  rotate: false
+  xy: 611, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+propeller/propeller_B
+  rotate: false
+  xy: 814, 408
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+propeller/propeller_C
+  rotate: false
+  xy: 611, 2
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+racer/racer_bg
+  rotate: false
+  xy: 814, 3
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+steare/shadow
+  rotate: false
+  xy: 814, 205
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+
+balls6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COIN_TYPE_BALLS/battery load/battery_body
+  rotate: false
+  xy: 513, 253
+  size: 94, 142
+  orig: 94, 142
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/battery load/battery_filler
+  rotate: true
+  xy: 656, 34
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/bubble_guy/buble_beams
+  rotate: false
+  xy: 204, 430
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/bubble_guy/bubleguy
+  rotate: false
+  xy: 896, 762
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/bubble_guy/bubleguy_still
+  rotate: false
+  xy: 224, 95
+  size: 139, 162
+  orig: 139, 162
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/bubble_guy/gum
+  rotate: false
+  xy: 512, 98
+  size: 142, 153
+  orig: 142, 153
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/0
+  rotate: false
+  xy: 914, 336
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/1
+  rotate: true
+  xy: 365, 41
+  size: 58, 139
+  orig: 58, 139
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/3
+  rotate: false
+  xy: 918, 46
+  size: 104, 141
+  orig: 104, 141
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/6
+  rotate: false
+  xy: 914, 471
+  size: 108, 138
+  orig: 108, 138
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/cower_side_1
+  rotate: false
+  xy: 204, 409
+  size: 199, 19
+  orig: 199, 19
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/01
+  rotate: true
+  xy: 785, 26
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/07
+  rotate: true
+  xy: 609, 684
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/ghost/ooh
+  rotate: false
+  xy: 609, 823
+  size: 130, 199
+  orig: 130, 199
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/limb_side
+  rotate: false
+  xy: 406, 600
+  size: 199, 63
+  orig: 199, 63
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/limb_side2
+  rotate: true
+  xy: 159, 20
+  size: 199, 63
+  orig: 199, 63
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/pizza_slice1
+  rotate: false
+  xy: 811, 450
+  size: 101, 151
+  orig: 101, 151
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/smile_side
+  rotate: false
+  xy: 405, 420
+  size: 201, 21
+  orig: 201, 21
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/smile_side_2
+  rotate: false
+  xy: 405, 397
+  size: 201, 21
+  orig: 201, 21
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/tesla_1
+  rotate: false
+  xy: 2, 620
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/tesla_2
+  rotate: false
+  xy: 205, 822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/tesla_3
+  rotate: false
+  xy: 2, 418
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/dog/dog_face
+  rotate: false
+  xy: 406, 665
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/dog/thong
+  rotate: true
+  xy: 2, 12
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/holiday spirit/bell_ball
+  rotate: false
+  xy: 608, 50
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/holiday spirit/bush
+  rotate: false
+  xy: 2, 221
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/holiday spirit/ribon
+  rotate: true
+  xy: 896, 881
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/CUP
+  rotate: false
+  xy: 741, 756
+  size: 153, 106
+  orig: 153, 106
+  offset: 0, 0
+  index: -1
+bear/bear_1
+  rotate: false
+  xy: 358, 261
+  size: 153, 134
+  orig: 153, 134
+  offset: 0, 0
+  index: -1
+bear/bear_2
+  rotate: false
+  xy: 609, 284
+  size: 152, 134
+  orig: 152, 134
+  offset: 0, 0
+  index: -1
+chick/Asset 48
+  rotate: true
+  xy: 560, 443
+  size: 155, 96
+  orig: 155, 96
+  offset: 0, 0
+  index: -1
+cookie/bits
+  rotate: true
+  xy: 785, 165
+  size: 147, 131
+  orig: 147, 131
+  offset: 0, 0
+  index: -1
+cookie/cookie
+  rotate: false
+  xy: 2, 55
+  size: 155, 164
+  orig: 155, 164
+  offset: 0, 0
+  index: -1
+firefly/light
+  rotate: false
+  xy: 403, 443
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+firework/firework2
+  rotate: false
+  xy: 658, 450
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+gintis new balls/bulp_off
+  rotate: true
+  xy: 224, 2
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+gintis new balls/dog_eare
+  rotate: false
+  xy: 607, 603
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+gintis new balls/eagle
+  rotate: false
+  xy: 741, 864
+  size: 153, 158
+  orig: 153, 158
+  offset: 0, 0
+  index: -1
+gintis new balls/hearth
+  rotate: false
+  xy: 506, 14
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+gintis new balls/sheep
+  rotate: false
+  xy: 896, 611
+  size: 116, 149
+  orig: 116, 149
+  offset: 0, 0
+  index: -1
+gintis new balls/sheep2
+  rotate: true
+  xy: 763, 314
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1
+gintis new balls/wings
+  rotate: true
+  xy: 656, 130
+  size: 152, 127
+  orig: 152, 127
+  offset: 0, 0
+  index: -1
+plane/proppeller
+  rotate: true
+  xy: 658, 420
+  size: 28, 157
+  orig: 28, 157
+  offset: 0, 0
+  index: -1
+puff/puff_1
+  rotate: false
+  xy: 741, 603
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+rabit/Asset 65
+  rotate: false
+  xy: 204, 620
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+rabit/Asset 66
+  rotate: false
+  xy: 407, 822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+sparrow/sparrow
+  rotate: false
+  xy: 918, 189
+  size: 104, 145
+  orig: 104, 145
+  offset: 0, 0
+  index: -1
+sports/Asset 69
+  rotate: false
+  xy: 2, 822
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+sports/runner_1
+  rotate: true
+  xy: 365, 101
+  size: 158, 145
+  orig: 158, 145
+  offset: 0, 0
+  index: -1
+sports/runner_2
+  rotate: false
+  xy: 199, 259
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+
+balls7.png
+size: 828,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COIN_TYPE_BALLS/caunter/2
+  rotate: false
+  xy: 111, 4
+  size: 106, 139
+  orig: 106, 139
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/4
+  rotate: false
+  xy: 701, 264
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/5
+  rotate: true
+  xy: 683, 157
+  size: 105, 139
+  orig: 105, 139
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/7
+  rotate: true
+  xy: 145, 173
+  size: 105, 138
+  orig: 105, 138
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/8
+  rotate: false
+  xy: 2, 2
+  size: 107, 141
+  orig: 107, 141
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/caunter/9
+  rotate: false
+  xy: 701, 404
+  size: 109, 140
+  orig: 109, 140
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/02
+  rotate: false
+  xy: 145, 413
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/03
+  rotate: false
+  xy: 2, 145
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/04
+  rotate: false
+  xy: 145, 280
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/05
+  rotate: false
+  xy: 284, 413
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/06
+  rotate: false
+  xy: 284, 280
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/08
+  rotate: false
+  xy: 423, 414
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/09
+  rotate: false
+  xy: 423, 282
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/10
+  rotate: false
+  xy: 562, 414
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/11
+  rotate: false
+  xy: 562, 282
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/dice/12
+  rotate: false
+  xy: 219, 41
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+COIN_TYPE_BALLS/valve/bolt
+  rotate: false
+  xy: 728, 12
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/holiday spirit/bell
+  rotate: false
+  xy: 2, 278
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/P
+  rotate: false
+  xy: 358, 37
+  size: 104, 134
+  orig: 104, 134
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/R
+  rotate: false
+  xy: 464, 69
+  size: 104, 134
+  orig: 104, 134
+  offset: 0, 0
+  index: -1
+NEW_SECRET_BALLS/purple best/S
+  rotate: true
+  xy: 285, 173
+  size: 105, 135
+  orig: 105, 135
+  offset: 0, 0
+  index: -1
+bomb/Asset 95
+  rotate: true
+  xy: 658, 88
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+bomb/fire
+  rotate: false
+  xy: 752, 81
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+cookie/nom
+  rotate: true
+  xy: 652, 2
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+firework/firework1
+  rotate: true
+  xy: 575, 175
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+fortune/arrow
+  rotate: true
+  xy: 570, 16
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+gintis new balls/bug
+  rotate: true
+  xy: 423, 205
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+papuga/papuga_small_beams
+  rotate: false
+  xy: 2, 410
+  size: 141, 134
+  orig: 141, 134
+  offset: 0, 0
+  index: -1
+papuga/papuga_wing
+  rotate: false
+  xy: 570, 86
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1

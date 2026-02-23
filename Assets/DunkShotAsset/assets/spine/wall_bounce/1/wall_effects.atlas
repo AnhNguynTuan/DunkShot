@@ -1,0 +1,27 @@
+
+wall_effects.png
+size: 235,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_beams
+  rotate: false
+  xy: 2, 2
+  size: 86, 558
+  orig: 86, 558
+  offset: 0, 0
+  index: -1
+trawel_beam_1
+  rotate: false
+  xy: 90, 195
+  size: 76, 365
+  orig: 76, 365
+  offset: 0, 0
+  index: -1
+trawel_beam_2
+  rotate: false
+  xy: 168, 194
+  size: 65, 366
+  orig: 65, 366
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,70 @@
+{
+    "android": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-108816812-1",
+            "anonymizeIp": true
+        }, 
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "CgkIy8iNh9YdEAIQAA",
+                    "name": "highscore"
+                }
+            ], 
+            "achievements": [], 
+            "clound_save": false, 
+            "connect_on_start": false, 
+            "show_achievement_notification": true, 
+            "debug": true
+        }, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "kchp.dunkshot_noads"
+                },
+                "star_pack1": {
+                    "id": "kchp.dunkshot_coins_pack1"
+                },
+                "extra_lives": {
+                    "id": "kchp.dunkshot_extra_lives"
+                }
+            },
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2vl2FwQllZR+5PgS3WzrYDnfHp5fXDC1Xb/Sc6niJSm0kndp++jCi9Xh9L80xPWSmEgmObf3eY7H8+APj6N+5voMwulsG+SwptdeTAQ7EcP8jgFElYgUXvihCAZgyNvVkB7EBObS6nJ4LDsPvtgjxxGuDaJebUxhLkBFOeyYUcOI+3OYWZrN+oALPGDyZfqRSVld1/2oJHrt2c8efWr6ftnxbNe83cY19CpvetEHOKmJxFuZ9MLS8OlZj8UI8m+S5jJjOqsqZn4h9zqy8k9TnxUQou8pPj2NVuAqwl/jxJlRelJlJnVfXkwfVqQJZafspKUTRmbk0oaGrJAZ2RrtWQIDAQAB"
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics": {
+            "track_init_screen": false, 
+            "trackingCode": "UA-108742860-1",
+            "anonymizeIp": true
+        }, 
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "kchp.dunk_shot",
+                    "name": "highscore"
+                }
+            ], 
+            "achievements": [], 
+            "connect_on_start": false, 
+            "show_achievement_notification": true, 
+            "debug": true
+        }, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable",
+                    "id": "kchp.dunkshot_noads"
+                },
+                "star_pack1": {
+                    "id": "kchp.dunkshot_coins_pack1"
+                },
+                "extra_lives": {
+                    "id": "kchp.dunkshot_extra_lives"
+                }
+                
+            }
+        }
+    }
+}

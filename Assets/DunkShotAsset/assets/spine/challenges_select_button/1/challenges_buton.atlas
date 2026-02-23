@@ -1,0 +1,62 @@
+
+challenges_buton.png
+size: 976,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 554, 193
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+big_blick
+  rotate: false
+  xy: 2, 2
+  size: 319, 361
+  orig: 319, 361
+  offset: 0, 0
+  index: -1
+bounc
+  rotate: false
+  xy: 725, 208
+  size: 131, 155
+  orig: 131, 155
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 858, 188
+  size: 175, 106
+  orig: 175, 106
+  offset: 0, 0
+  index: -1
+small_blick
+  rotate: false
+  xy: 323, 2
+  size: 229, 361
+  orig: 229, 361
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 849, 61
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+time
+  rotate: false
+  xy: 554, 37
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+token
+  rotate: false
+  xy: 710, 54
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1

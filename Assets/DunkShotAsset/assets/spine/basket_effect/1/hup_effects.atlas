@@ -1,0 +1,41 @@
+
+hup_effects.png
+size: 1004,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot
+  rotate: false
+  xy: 929, 285
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 85
+  size: 925, 252
+  orig: 925, 252
+  offset: 0, 0
+  index: -1
+throw_ring
+  rotate: false
+  xy: 741, 2
+  size: 261, 81
+  orig: 261, 81
+  offset: 0, 0
+  index: -1
+trawel_beam_1
+  rotate: true
+  xy: 2, 5
+  size: 78, 367
+  orig: 78, 367
+  offset: 0, 0
+  index: -1
+trawel_beam_2
+  rotate: true
+  xy: 371, 16
+  size: 67, 368
+  orig: 67, 368
+  offset: 0, 0
+  index: -1

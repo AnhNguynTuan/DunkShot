@@ -1,0 +1,27 @@
+
+piniata_explosion.png
+size: 476,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot
+  rotate: false
+  xy: 422, 28
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+konfeti
+  rotate: false
+  xy: 371, 12
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+trawel_beam_1
+  rotate: true
+  xy: 2, 2
+  size: 78, 367
+  orig: 78, 367
+  offset: 0, 0
+  index: -1

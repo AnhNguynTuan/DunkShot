@@ -1,0 +1,34 @@
+
+toggle.png
+size: 332,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: true
+  xy: 235, 17
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 158, 66
+  orig: 158, 66
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 162, 25
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+on
+  rotate: true
+  xy: 287, 13
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
